@@ -1,6 +1,6 @@
-cloaked-bear
+startup_hw3
 ============
 
-Coursera data_analysis course assignment 1
+Coursera startup_engineering course wk3
 
-This repository is for organising the various files for a data analysis
+Creating a bitstarter template in HTML
